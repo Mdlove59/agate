@@ -1,10 +1,5 @@
-# Android device tree for Xiaomi agate (agate)
-
-```
-#
-# Copyright (C) 2024 The Android Open Source Project
-# Copyright (C) 2024 SebaUbuntu's TWRP device tree generator
-#
-# SPDX-License-Identifier: Apache-2.0
-#
-```
+# TWRP Tree for Xiaomi 11T
+* Brand : Xiaomi
+* SoC Vendor : Mediatek
+* Chipset : Dimensity 1200
+* Implementation : Virtual AB
